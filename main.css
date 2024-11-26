@@ -16,3 +16,13 @@
     background-size: cover;
     margin-top: 90px;
 }
+.adreslar{
+    margin: 90px 0px;
+}
+/* footer */
+.footer{
+    background-color: #2C343E;
+    height: 90px;
+  align-items: center   ;
+  
+}
